@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="game_BTN_left" type="id"/>
+    <item name="game_BTN_right" type="id"/>
+    <item name="game_BTN_up" type="id"/>
+    <item name="game_BTN_down" type="id"/>
+    <item name="game_LAY_center" type="id"/>
+    <item name="menu_BTN_start" type="id"/>
+    <item name="menu_EDT_id" type="id"/>
+</resources>
